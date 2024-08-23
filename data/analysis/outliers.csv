@@ -1,0 +1,126 @@
+Estructura,TipoProducto,TipoBolsa,TipoSellado,GrupoFormato,Impreso,Calibre,Valvula,GradoTroquel,UsoZipper,PorcentajeCumplimiento
+PET/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.758
+PET/PEBD,BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,Grado alto,zipper,0.752
+PET/BOPP METALIZADO/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,NO,menor igual 100,No valvula,no troquel,no zipper,0.759
+BOPP MATE/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.794
+PET METALIZADO/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 100,No valvula,Grado bajo,no zipper,0.779
+PET/FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.794
+BOPP MATE/FOIL/PEBD,BOLSA,FLOW PACK,VENTRAL LATERAL,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.791
+BOPP MATE/FOIL/PEBD,BOLSA,FLOW PACK,FLOW PACK,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.804
+PEADIMP/PEADTS-AB,BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,no troquel,zipper,0.755
+PET/PET METALIZADO/PEBD,ROLLO,,,Grupo 4,Si,menor igual 100,,,,0.767
+PEBD,BOLSA,FLEX UP,HILO+FFA,Grupo 1,Si,menor igual 100,No valvula,Grado alto,no zipper,0.773
+BOPP MATE/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.789
+PET/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.786
+PET/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.752
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 3,NO,menor igual 100,,,,0.8
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.773
+PET/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 2,Si,menor igual 100,No valvula,Grado bajo,zipper,0.792
+PET/BOPP METALIZADO/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.795
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.773
+PEADTS-AB,BOLSA,FLOW PACK,FLOW PACK 4 SELLES,Grupo 1,Si,menor igual 100,Valvula,no troquel,no zipper,0.76
+PET/COEXT. HBA (PE-EVOH) ABRE FACIL,ROLLO,,,Grupo 3,NO,menor igual 100,,,,0.774
+PET/COEXT. HBA (PE-EVOH),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,Grado alto,zipper,0.794
+PET/FOIL/PEBD,ROLLO,,,Grupo 3,NO,mayor 100,,,,0.758
+PET/PET METALIZADO/PEBD,ROLLO,,,Grupo 1,Si,menor igual 100,,,,0.781
+PET/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.791
+BOPA/WINPAK (PE-EVOH) ABRE FACIL,ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.764
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,NO,mayor 70,No valvula,Grado bajo,no zipper,0.785
+FLEXIBLE (PA-PE),BOLSA,FLEX UP,MULTIFLEX UP SIN SELLE DE FONDO,Grupo 3,Si,mayor 70,Valvula,no troquel,no zipper,0.794
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,mayor 70,No valvula,no troquel,no zipper,0.793
+COEXT. HBA (PE-EVOH),BOLSA,FUELLADA,FONDO,Grupo 2,NO,mayor 100,No valvula,no troquel,no zipper,0.797
+PEADTS,BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,menor igual 100,No valvula,no troquel,zipper,0.765
+PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,No valvula,no troquel,zipper,0.766
+FLEXIBLE (PA-PE),BOLSA,PLANA,SELLADO COMPLETAMENTE,Grupo 3,NO,mayor 70,Valvula,no troquel,no zipper,0.781
+BOPP MATE/PEBD,ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.768
+BOPP PLANO/BOPP PLANO,LAMINA SEPARADORA,0,0,Grupo 1,Si,menor igual 100,No valvula,no troquel,no zipper,0.792
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 70,No valvula,no troquel,no zipper,0.768
+PET/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.79
+PET/FOIL/PEBD,ROLLO,,,Grupo 3,NO,menor igual 100,,,,0.766
+BOPP MATE/FLEXIBLE (PA-PE) ABRE FACIL,BOLSA,PLANA,LATERAL+FONDO+PRESELLE+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,no troquel,no zipper,0.765
+FLEXIBLE (PA-PE),BOLSA,PLANA,SELLADO COMPLETAMENTE,Grupo 2,Si,mayor 70,Valvula,no troquel,no zipper,0.758
+BOPA/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 100,No valvula,no troquel,no zipper,0.771
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.755
+PET/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.802
+BOPP MATE/FLEXIBLE (PA-PE),ROLLO,,,Grupo 4,Si,mayor 100,,,,0.77
+PET/PET METALIZADO/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 2,Si,mayor 100,Valvula,Grado bajo,zipper,0.792
+BOPA/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 100,No valvula,Grado bajo,no zipper,0.765
+BOPA/PEBD,BOLSA,PLANA,LATERAL+FONDO+PRESELLE+SEGURIDAD,Grupo 1,Si,mayor 100,No valvula,Grado bajo,no zipper,0.789
+PET/FOIL/PEBD,BOLSA,FLOW PACK,VENTRAL LATERAL,Grupo 1,Si,mayor 100,No valvula,no troquel,no zipper,0.763
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,Grado alto,zipper,0.779
+PEADIMP/PEADTS-AB,BOLSA,FLEX UP,FLEX UP,Grupo 2,Si,mayor 100,Valvula,Grado alto,no zipper,0.785
+BOPA/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 2,Si,mayor 100,No valvula,Grado bajo,zipper,0.797
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 70,No valvula,Grado bajo,zipper,0.785
+PET/PET METALIZADO/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.751
+PET/PEBD,BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,No valvula,Grado bajo,zipper,0.762
+PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,Valvula,no troquel,no zipper,0.802
+PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 3,NO,mayor 100,No valvula,no troquel,no zipper,0.767
+BOPA/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,mayor 100,No valvula,Grado alto,no zipper,0.781
+PET/PET METALIZADO/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.772
+PET/FOIL/BOPA/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 1,Si,mayor 100,,,,0.762
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.769
+BOPP MATE/PET METALIZADO/PEBD,ROLLO,,,Grupo 3,Si,mayor 100,,,,0.751
+PET MATE/FOIL/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,Valvula,Grado alto,no zipper,0.778
+BOPA/FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.765
+PET/BOPP METALIZADO/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.805
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,SELLADO COMPLETAMENTE,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.788
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.799
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,Valvula,Grado alto,no zipper,0.762
+PET/PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,no troquel,no zipper,0.765
+BOPP MATE/PET METALIZADO/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.769
+PET/BOPP METALIZADO/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.788
+PET/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 1,NO,mayor 100,No valvula,Grado bajo,zipper,0.776
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 3,NO,mayor 70,Valvula,no troquel,no zipper,0.751
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,mayor 70,No valvula,no troquel,no zipper,0.792
+FLEXIBLE (PA-PE),BOLSA,PLANA,SELLADO COMPLETAMENTE,Grupo 2,NO,mayor 70,Valvula,no troquel,no zipper,0.784
+PET/FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado bajo,zipper,0.778
+PET/BOPP METALIZADO/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.799
+PET/BOPP METALIZADO/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.785
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.753
+PEADTS,BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,No valvula,Grado alto,zipper,0.762
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,Grado alto,zipper,0.774
+PET/FOIL/BOPA/COEXT. HBA (PE-EVOH),BOLSA,PLANA,LATERAL+FONDO+PRESELLE+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.769
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,No valvula,Grado alto,no zipper,0.789
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,mayor 70,No valvula,no troquel,no zipper,0.792
+PAPEL/CELULOSA METALIZADA/BIOPOLIMERO,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 100,No valvula,Grado alto,no zipper,0.797
+PET/COEXT. HBA (PE-EVOH),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,menor igual 100,No valvula,Grado alto,zipper,0.753
+PET MATE/BOPP METALIZADO/PEBD,BOLSA,FLEX UP,FLEX UP,Grupo 2,Si,mayor 100,No valvula,Grado alto,zipper,0.773
+PET MATE/PET METALIZADO/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 2,Si,mayor 100,No valvula,Grado alto,zipper,0.78
+PAPEL/CELULOSA METALIZADA/BIOPOLIMERO,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 100,No valvula,Grado alto,no zipper,0.763
+FLEXIBLE (PA-PE),BOLSA,MANGA PASTELERA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 70,No valvula,no troquel,no zipper,0.752
+BOPP MATE/FOIL/PEBD,BOLSA,FLOW PACK,VENTRAL LATERAL,Grupo 1,Si,mayor 100,Valvula,no troquel,no zipper,0.766
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.806
+PAPEL/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,NO,mayor 100,No valvula,Grado bajo,no zipper,0.78
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.755
+PET METALIZADO/PEBD,BOLSA,FLEX UP,MULTIFLEX UP CON SELLE DE FONDO,Grupo 2,NO,mayor 100,Valvula,Grado bajo,zipper,0.779
+PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,No valvula,no troquel,zipper,0.773
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 70,No valvula,no troquel,no zipper,0.755
+PET/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.775
+PEADIMP/PEADTS,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,menor igual 100,No valvula,Grado bajo,zipper,0.761
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,mayor 70,No valvula,no troquel,no zipper,0.786
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 70,No valvula,no troquel,no zipper,0.787
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 70,No valvula,no troquel,no zipper,0.782
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,mayor 100,Valvula,Grado alto,no zipper,0.802
+PEADTS,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,mayor 100,No valvula,no troquel,zipper,0.806
+BOPP MATE/BOPP METALIZADO,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.759
+BOPP MATE/FOIL/PEBD,BOLSA,FLOW PACK,FLOW PACK,Grupo 1,Si,menor igual 100,No valvula,no troquel,no zipper,0.777
+PET/PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,Si,menor igual 100,Valvula,no troquel,no zipper,0.755
+BOPP PLANO/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado bajo,no zipper,0.774
+PET/PET METALIZADO/PEBD,ROLLO,,,Grupo 4,NO,mayor 100,,,,0.795
+PET/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,Si,mayor 100,No valvula,Grado alto,zipper,0.792
+BOPP MATE/COEXT. HBA (PE-EVOH) ABRE FACIL,ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.803
+BOPP MATE/FOIL/PEBD,ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.788
+PET/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,No valvula,Grado bajo,zipper,0.795
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 70,No valvula,no troquel,no zipper,0.751
+PET/BOPP METALIZADO/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 2,Si,menor igual 100,,,,0.761
+PET/PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,FLEX UP,FLEX UP,Grupo 1,NO,mayor 100,Valvula,no troquel,no zipper,0.785
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 2,NO,menor igual 70,No valvula,no troquel,no zipper,0.788
+PET/PET METALIZADO/FLEXIBLE (PA-PE),BOLSA,PLANA,SELLADO COMPLETAMENTE,Grupo 1,NO,menor igual 100,Valvula,no troquel,no zipper,0.801
+FLEXIBLE (PA-PE),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,NO,menor igual 70,No valvula,no troquel,no zipper,0.804
+PET/COEXT. HBA (PE-EVOH),BOLSA,FLEX UP,FLEX UP,Grupo 2,Si,mayor 100,Valvula,Grado alto,no zipper,0.786
+FLEXIBLE (PA-PE),BOLSA,MANGA PASTELERA,LATERAL+FONDO+SEGURIDAD,Grupo 1,NO,menor igual 70,No valvula,no troquel,no zipper,0.769
+PET/FOIL/PEBD,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,Grado alto,no zipper,0.795
+FLEXIBLE (PA-PE),BOLSA,PLANA,SELLADO COMPLETAMENTE,Grupo 2,Si,mayor 70,Valvula,no troquel,no zipper,0.791
+BOPA/COEXT. HBA (PE-EVOH) ABRE FACIL,ROLLO,,,Grupo 3,Si,menor igual 100,,,,0.78
+PET/COEXT. HBA (PE-EVOH),ROLLO,,,Grupo 4,Si,mayor 100,,,,0.771
+PAPEL/CELULOSA METALIZADA/BIOPOLIMERO,BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,mayor 100,No valvula,Grado alto,no zipper,0.792

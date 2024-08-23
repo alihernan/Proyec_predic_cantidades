@@ -1,0 +1,310 @@
+2024-08-18 12:04:36,704 - WARNING -  * Debugger is active!
+2024-08-18 12:04:36,711 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:04:47,031 - INFO - 127.0.0.1 - - [18/Aug/2024 12:04:47] "GET / HTTP/1.1" 200 -
+2024-08-18 12:04:50,745 - INFO - 127.0.0.1 - - [18/Aug/2024 12:04:50] "GET / HTTP/1.1" 200 -
+2024-08-18 12:05:03,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 12:05:03,024 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 12:05:03,040 - INFO -  * Restarting with stat
+2024-08-18 12:05:04,611 - WARNING -  * Debugger is active!
+2024-08-18 12:05:04,617 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:05:09,503 - INFO - 127.0.0.1 - - [18/Aug/2024 12:05:09] "GET / HTTP/1.1" 200 -
+2024-08-18 12:05:16,163 - INFO - Predicción realizada: 1.01 | Datos de entrada: {'Estructura': ['PET/FLEXIBLE (PA-PE)'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['Si'], 'Calibre': ['mayor 100'], 'Valvula': ['No'], 'GradoTroquel': ['Grado alto'], 'UsoZipper': ['Sí']}
+2024-08-18 12:05:16,164 - INFO - 127.0.0.1 - - [18/Aug/2024 12:05:16] "POST / HTTP/1.1" 200 -
+2024-08-18 12:06:03,499 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 12:06:03,499 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 12:06:03,502 - INFO -  * Restarting with stat
+2024-08-18 12:06:05,024 - WARNING -  * Debugger is active!
+2024-08-18 12:06:05,030 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:06:07,540 - INFO - 127.0.0.1 - - [18/Aug/2024 12:06:07] "GET / HTTP/1.1" 200 -
+2024-08-18 12:07:17,043 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app.py', reloading
+2024-08-18 12:07:17,240 - INFO -  * Restarting with stat
+2024-08-18 12:07:19,004 - WARNING -  * Debugger is active!
+2024-08-18 12:07:19,012 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:07:27,639 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 12:07:27,906 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 12:07:27,906 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 12:07:27,933 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:07:28,341 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:07:36,442 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app.py', reloading
+2024-08-18 12:07:36,679 - INFO -  * Restarting with stat
+2024-08-18 12:07:38,321 - WARNING -  * Debugger is active!
+2024-08-18 12:07:38,321 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:07:40,767 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 12:07:40,977 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 12:07:40,987 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 12:07:41,009 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:07:41,181 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:07:50,374 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app.py', reloading
+2024-08-18 12:07:50,641 - INFO -  * Restarting with stat
+2024-08-18 12:07:52,257 - WARNING -  * Debugger is active!
+2024-08-18 12:07:52,264 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:07:54,776 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 12:07:54,975 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 12:07:54,987 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 12:07:55,006 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:07:55,145 - INFO - 127.0.0.1 - - [18/Aug/2024 12:07:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:08:11,559 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app.py', reloading
+2024-08-18 12:08:11,736 - INFO -  * Restarting with stat
+2024-08-18 12:08:13,353 - WARNING -  * Debugger is active!
+2024-08-18 12:08:13,355 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:08:16,276 - INFO - 127.0.0.1 - - [18/Aug/2024 12:08:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-18 12:08:16,488 - INFO - 127.0.0.1 - - [18/Aug/2024 12:08:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 12:08:16,488 - INFO - 127.0.0.1 - - [18/Aug/2024 12:08:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 12:08:16,512 - INFO - 127.0.0.1 - - [18/Aug/2024 12:08:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:08:16,663 - INFO - 127.0.0.1 - - [18/Aug/2024 12:08:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 12:09:18,559 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app.py', reloading
+2024-08-18 12:09:18,838 - INFO -  * Restarting with stat
+2024-08-18 12:09:20,666 - WARNING -  * Debugger is active!
+2024-08-18 12:09:20,679 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 12:09:23,949 - INFO - 127.0.0.1 - - [18/Aug/2024 12:09:23] "GET / HTTP/1.1" 200 -
+2024-08-18 13:57:17,913 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 13:57:17,913 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 13:57:17,913 - INFO -  * Restarting with stat
+2024-08-18 13:57:19,470 - WARNING -  * Debugger is active!
+2024-08-18 13:57:19,481 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 13:57:25,657 - INFO - 127.0.0.1 - - [18/Aug/2024 13:57:25] "GET / HTTP/1.1" 200 -
+2024-08-18 13:57:27,476 - INFO - 127.0.0.1 - - [18/Aug/2024 13:57:27] "GET / HTTP/1.1" 200 -
+2024-08-18 13:57:48,531 - INFO - Predicción realizada: 1.00 | Datos de entrada: {'Estructura': ['BOPA/PEADTS'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['Si'], 'Calibre': ['mayor 100'], 'Valvula': ['No'], 'GradoTroquel': ['Grado alto'], 'UsoZipper': ['No']}
+2024-08-18 13:57:48,531 - INFO - 127.0.0.1 - - [18/Aug/2024 13:57:48] "POST / HTTP/1.1" 200 -
+2024-08-18 14:04:01,760 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:04:01,760 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:04:01,763 - INFO -  * Restarting with stat
+2024-08-18 14:04:03,391 - WARNING -  * Debugger is active!
+2024-08-18 14:04:03,398 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:04:12,155 - INFO - 127.0.0.1 - - [18/Aug/2024 14:04:12] "GET / HTTP/1.1" 200 -
+2024-08-18 14:07:29,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:07:29,026 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:07:29,030 - INFO -  * Restarting with stat
+2024-08-18 14:07:30,714 - WARNING -  * Debugger is active!
+2024-08-18 14:07:30,721 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:07:33,288 - INFO - 127.0.0.1 - - [18/Aug/2024 14:07:33] "GET / HTTP/1.1" 200 -
+2024-08-18 14:07:52,922 - ERROR - No se pudo obtener información para la parte  A11004.
+2024-08-18 14:07:52,923 - INFO - 127.0.0.1 - - [18/Aug/2024 14:07:52] "POST / HTTP/1.1" 200 -
+2024-08-18 14:08:00,093 - ERROR - No se pudo obtener información para la parte  A11004.
+2024-08-18 14:08:00,094 - INFO - 127.0.0.1 - - [18/Aug/2024 14:08:00] "POST / HTTP/1.1" 200 -
+2024-08-18 14:09:50,137 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:09:50,361 - INFO -  * Restarting with stat
+2024-08-18 14:09:52,078 - WARNING -  * Debugger is active!
+2024-08-18 14:09:52,085 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:10:00,174 - INFO - 127.0.0.1 - - [18/Aug/2024 14:10:00] "GET / HTTP/1.1" 200 -
+2024-08-18 14:10:03,372 - ERROR - No se pudo obtener información para la parte  A11004.
+2024-08-18 14:10:03,372 - INFO - 127.0.0.1 - - [18/Aug/2024 14:10:03] "POST / HTTP/1.1" 200 -
+2024-08-18 14:12:56,068 - INFO - 127.0.0.1 - - [18/Aug/2024 14:12:56] "GET / HTTP/1.1" 200 -
+2024-08-18 14:13:18,342 - ERROR - No se pudo obtener información para la parte  A11004.
+2024-08-18 14:13:18,342 - INFO - 127.0.0.1 - - [18/Aug/2024 14:13:18] "POST / HTTP/1.1" 200 -
+2024-08-18 14:20:04,838 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:20:04,838 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:20:04,840 - INFO -  * Restarting with stat
+2024-08-18 14:20:06,469 - WARNING -  * Debugger is active!
+2024-08-18 14:20:06,474 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:20:09,149 - INFO - 127.0.0.1 - - [18/Aug/2024 14:20:09] "GET / HTTP/1.1" 200 -
+2024-08-18 14:20:11,871 - INFO - 127.0.0.1 - - [18/Aug/2024 14:20:11] "POST / HTTP/1.1" 200 -
+2024-08-18 14:20:29,011 - INFO - 127.0.0.1 - - [18/Aug/2024 14:20:29] "POST / HTTP/1.1" 200 -
+2024-08-18 14:27:33,497 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:27:33,497 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:27:33,497 - INFO -  * Restarting with stat
+2024-08-18 14:27:35,143 - WARNING -  * Debugger is active!
+2024-08-18 14:27:35,149 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:27:37,629 - INFO - 127.0.0.1 - - [18/Aug/2024 14:27:37] "GET / HTTP/1.1" 200 -
+2024-08-18 14:27:41,589 - INFO - 127.0.0.1 - - [18/Aug/2024 14:27:41] "POST / HTTP/1.1" 200 -
+2024-08-18 14:35:42,980 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:35:43,179 - INFO -  * Restarting with stat
+2024-08-18 14:35:44,835 - WARNING -  * Debugger is active!
+2024-08-18 14:35:44,835 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:36:42,503 - INFO - 127.0.0.1 - - [18/Aug/2024 14:36:42] "GET / HTTP/1.1" 200 -
+2024-08-18 14:36:48,608 - INFO - 127.0.0.1 - - [18/Aug/2024 14:36:48] "POST / HTTP/1.1" 200 -
+2024-08-18 14:39:48,426 - INFO - 127.0.0.1 - - [18/Aug/2024 14:39:48] "GET / HTTP/1.1" 200 -
+2024-08-18 14:39:51,747 - INFO - 127.0.0.1 - - [18/Aug/2024 14:39:51] "POST / HTTP/1.1" 200 -
+2024-08-18 14:40:53,378 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:40:53,378 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:40:53,380 - INFO -  * Restarting with stat
+2024-08-18 14:40:54,979 - WARNING -  * Debugger is active!
+2024-08-18 14:40:54,985 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:40:57,549 - INFO - 127.0.0.1 - - [18/Aug/2024 14:40:57] "GET / HTTP/1.1" 200 -
+2024-08-18 14:41:02,823 - INFO - 127.0.0.1 - - [18/Aug/2024 14:41:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-18 14:41:03,030 - INFO - 127.0.0.1 - - [18/Aug/2024 14:41:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 14:41:03,032 - INFO - 127.0.0.1 - - [18/Aug/2024 14:41:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 14:41:03,079 - INFO - 127.0.0.1 - - [18/Aug/2024 14:41:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:41:03,238 - INFO - 127.0.0.1 - - [18/Aug/2024 14:41:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:44:58,486 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:44:58,670 - INFO -  * Restarting with stat
+2024-08-18 14:45:00,346 - WARNING -  * Debugger is active!
+2024-08-18 14:45:00,352 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:45:09,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:45:09,936 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:45:09,940 - INFO -  * Restarting with stat
+2024-08-18 14:45:11,686 - WARNING -  * Debugger is active!
+2024-08-18 14:45:11,702 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:45:14,085 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:14] "GET / HTTP/1.1" 200 -
+2024-08-18 14:45:17,989 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:17] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-18 14:45:18,201 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 14:45:18,202 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 14:45:18,216 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:45:18,360 - INFO - 127.0.0.1 - - [18/Aug/2024 14:45:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:51:49,010 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:51:49,202 - INFO -  * Restarting with stat
+2024-08-18 14:51:50,808 - WARNING -  * Debugger is active!
+2024-08-18 14:51:50,808 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:52:03,439 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:52:03,439 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:52:03,439 - INFO -  * Restarting with stat
+2024-08-18 14:52:05,048 - WARNING -  * Debugger is active!
+2024-08-18 14:52:05,054 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:52:07,577 - INFO - 127.0.0.1 - - [18/Aug/2024 14:52:07] "GET / HTTP/1.1" 200 -
+2024-08-18 14:52:10,661 - INFO - Predicción realizada: 0.96 | Datos de entrada: {'Estructura': ['BOPP MATE/FOIL/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLOW PACK'], 'TipoSellado': ['FLOW PACK'], 'GrupoFormato': ['Grupo 2'], 'Impreso': ['SI'], 'Calibre': [115], 'Valvula': ['Valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-18 14:52:10,662 - INFO - 127.0.0.1 - - [18/Aug/2024 14:52:10] "POST / HTTP/1.1" 200 -
+2024-08-18 14:54:32,444 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:54:32,627 - INFO -  * Restarting with stat
+2024-08-18 14:54:34,278 - WARNING -  * Debugger is active!
+2024-08-18 14:54:34,284 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:54:37,827 - INFO - 127.0.0.1 - - [18/Aug/2024 14:54:37] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-18 14:54:38,061 - INFO - 127.0.0.1 - - [18/Aug/2024 14:54:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 14:54:38,061 - INFO - 127.0.0.1 - - [18/Aug/2024 14:54:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 14:54:38,075 - INFO - 127.0.0.1 - - [18/Aug/2024 14:54:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:54:38,233 - INFO - 127.0.0.1 - - [18/Aug/2024 14:54:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:55:05,820 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:05] "GET / HTTP/1.1" 200 -
+2024-08-18 14:55:05,831 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:55:06,084 - INFO -  * Restarting with stat
+2024-08-18 14:55:07,879 - WARNING -  * Debugger is active!
+2024-08-18 14:55:07,879 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:55:11,073 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:11] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-18 14:55:11,283 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 14:55:11,295 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 14:55:11,313 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:55:11,447 - INFO - 127.0.0.1 - - [18/Aug/2024 14:55:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:56:26,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 14:56:26,547 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 14:56:26,549 - INFO -  * Restarting with stat
+2024-08-18 14:56:28,193 - WARNING -  * Debugger is active!
+2024-08-18 14:56:28,209 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:56:30,635 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:30] "GET / HTTP/1.1" 200 -
+2024-08-18 14:56:34,361 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-18 14:56:34,538 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-18 14:56:34,546 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-18 14:56:34,584 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:56:34,702 - INFO - 127.0.0.1 - - [18/Aug/2024 14:56:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-18 14:57:12,044 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:57:12,238 - INFO -  * Restarting with stat
+2024-08-18 14:57:13,881 - WARNING -  * Debugger is active!
+2024-08-18 14:57:13,897 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 14:57:16,413 - INFO - 127.0.0.1 - - [18/Aug/2024 14:57:16] "GET / HTTP/1.1" 200 -
+2024-08-18 14:57:18,965 - INFO - Predicción realizada: 0.96 | Datos de entrada: {'Estructura': ['BOPP MATE/FOIL/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLOW PACK'], 'TipoSellado': ['FLOW PACK'], 'GrupoFormato': ['Grupo 2'], 'Impreso': ['SI'], 'Calibre': ['mayor 100'], 'Valvula': ['Valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-18 14:57:18,966 - INFO - 127.0.0.1 - - [18/Aug/2024 14:57:18] "POST / HTTP/1.1" 200 -
+2024-08-18 14:59:44,124 - INFO -  * Detected change in 'd:\\Escritorio\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-18 14:59:44,328 - INFO -  * Restarting with stat
+2024-08-18 15:01:24,399 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-18 15:01:24,399 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-18 15:01:24,403 - INFO -  * Restarting with stat
+2024-08-18 15:01:26,131 - WARNING -  * Debugger is active!
+2024-08-18 15:01:26,131 - INFO -  * Debugger PIN: 126-399-782
+2024-08-18 15:01:28,534 - INFO - 127.0.0.1 - - [18/Aug/2024 15:01:28] "GET / HTTP/1.1" 200 -
+2024-08-18 15:03:22,659 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-18 15:03:22,660 - INFO - 127.0.0.1 - - [18/Aug/2024 15:03:22] "POST / HTTP/1.1" 200 -
+2024-08-18 15:04:07,818 - INFO - 127.0.0.1 - - [18/Aug/2024 15:04:07] "POST / HTTP/1.1" 200 -
+2024-08-18 15:04:16,252 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-18 15:04:16,252 - INFO - 127.0.0.1 - - [18/Aug/2024 15:04:16] "POST / HTTP/1.1" 200 -
+2024-08-18 15:04:51,703 - INFO - Predicción realizada: 0.91 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['no zipper']}
+2024-08-18 15:04:51,704 - INFO - 127.0.0.1 - - [18/Aug/2024 15:04:51] "POST / HTTP/1.1" 200 -
+2024-08-18 15:05:21,141 - INFO - 127.0.0.1 - - [18/Aug/2024 15:05:21] "GET / HTTP/1.1" 200 -
+2024-08-18 15:09:00,383 - INFO - Predicción realizada: 0.97 | Datos de entrada: {'Estructura': ['PET/FLEXIBLE (PA-PE)'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['mayor 100'], 'Valvula': ['Valvula'], 'GradoTroquel': ['Troquel forma'], 'UsoZipper': ['no zipper']}
+2024-08-18 15:09:00,384 - INFO - 127.0.0.1 - - [18/Aug/2024 15:09:00] "POST / HTTP/1.1" 200 -
+2024-08-20 09:12:40,897 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-20 09:12:40,897 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-20 09:12:40,897 - INFO -  * Restarting with stat
+2024-08-20 09:12:42,697 - WARNING -  * Debugger is active!
+2024-08-20 09:12:42,697 - INFO -  * Debugger PIN: 126-399-782
+2024-08-20 09:12:49,637 - INFO - 127.0.0.1 - - [20/Aug/2024 09:12:49] "GET / HTTP/1.1" 200 -
+2024-08-20 09:12:50,096 - INFO - 127.0.0.1 - - [20/Aug/2024 09:12:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-20 09:12:58,397 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-20 09:12:58,397 - INFO - 127.0.0.1 - - [20/Aug/2024 09:12:58] "POST / HTTP/1.1" 200 -
+2024-08-20 15:06:26,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-20 15:06:26,769 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-20 15:06:26,769 - INFO -  * Restarting with stat
+2024-08-20 15:06:28,527 - WARNING -  * Debugger is active!
+2024-08-20 15:06:28,539 - INFO -  * Debugger PIN: 126-399-782
+2024-08-20 15:06:32,258 - INFO - 127.0.0.1 - - [20/Aug/2024 15:06:32] "GET / HTTP/1.1" 200 -
+2024-08-20 15:06:36,486 - INFO - Predicción realizada: 0.97 | Datos de entrada: {'Estructura': ['PET/FLEXIBLE (PA-PE)'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['mayor 100'], 'Valvula': ['Valvula'], 'GradoTroquel': ['Troquel forma'], 'UsoZipper': ['no zipper']}
+2024-08-20 15:06:36,486 - INFO - 127.0.0.1 - - [20/Aug/2024 15:06:36] "POST / HTTP/1.1" 200 -
+2024-08-20 15:08:44,589 - INFO - 127.0.0.1 - - [20/Aug/2024 15:08:44] "POST / HTTP/1.1" 200 -
+2024-08-20 15:10:33,656 - INFO - Predicción realizada: 0.98 | Datos de entrada: {'Estructura': ['BOPA/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['PLANA'], 'TipoSellado': ['LATERAL+FONDO+SEGURIDAD'], 'GrupoFormato': ['Grupo 2'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-20 15:10:33,656 - INFO - 127.0.0.1 - - [20/Aug/2024 15:10:33] "POST / HTTP/1.1" 200 -
+2024-08-20 15:10:56,637 - INFO - Predicción realizada: 0.94 | Datos de entrada: {'Estructura': ['PET/FOIL/PEBD'], 'TipoProducto': ['ROLLO'], 'TipoBolsa': [''], 'TipoSellado': [''], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-20 15:10:56,638 - INFO - 127.0.0.1 - - [20/Aug/2024 15:10:56] "POST / HTTP/1.1" 200 -
+2024-08-20 15:16:08,906 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-20 15:16:08,906 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-20 15:16:08,908 - INFO -  * Restarting with stat
+2024-08-20 15:16:10,559 - WARNING -  * Debugger is active!
+2024-08-20 15:16:10,565 - INFO -  * Debugger PIN: 126-399-782
+2024-08-20 15:16:15,925 - INFO - 127.0.0.1 - - [20/Aug/2024 15:16:15] "GET / HTTP/1.1" 200 -
+2024-08-20 15:16:19,538 - INFO - 127.0.0.1 - - [20/Aug/2024 15:16:19] "GET / HTTP/1.1" 200 -
+2024-08-20 15:16:20,393 - INFO - 127.0.0.1 - - [20/Aug/2024 15:16:20] "GET / HTTP/1.1" 200 -
+2024-08-20 15:16:39,053 - INFO - Predicción realizada: 0.97 | Datos de entrada: {'Estructura': ['PET/FLEXIBLE (PA-PE)'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['mayor 100'], 'Valvula': ['Valvula'], 'GradoTroquel': ['Troquel forma'], 'UsoZipper': ['no zipper']}
+2024-08-20 15:16:39,054 - INFO - 127.0.0.1 - - [20/Aug/2024 15:16:39] "POST / HTTP/1.1" 200 -
+2024-08-21 14:18:51,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-21 14:18:51,116 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-21 14:18:51,116 - INFO -  * Restarting with stat
+2024-08-21 14:18:53,954 - WARNING -  * Debugger is active!
+2024-08-21 14:18:53,963 - INFO -  * Debugger PIN: 126-399-782
+2024-08-21 14:19:03,096 - INFO - 127.0.0.1 - - [21/Aug/2024 14:19:03] "GET / HTTP/1.1" 200 -
+2024-08-21 14:19:04,037 - INFO - 127.0.0.1 - - [21/Aug/2024 14:19:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-21 14:19:10,346 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-21 14:19:10,346 - INFO - 127.0.0.1 - - [21/Aug/2024 14:19:10] "POST / HTTP/1.1" 200 -
+2024-08-21 14:21:01,385 - INFO - Predicción realizada: 0.91 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['no zipper']}
+2024-08-21 14:21:01,391 - INFO - 127.0.0.1 - - [21/Aug/2024 14:21:01] "POST / HTTP/1.1" 200 -
+2024-08-22 15:46:56,888 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:46:56,888 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:46:56,893 - INFO -  * Restarting with stat
+2024-08-22 15:47:00,632 - WARNING -  * Debugger is active!
+2024-08-22 15:47:00,638 - INFO -  * Debugger PIN: 126-399-782
+2024-08-22 15:47:05,068 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:05] "GET / HTTP/1.1" 200 -
+2024-08-22 15:47:05,632 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-22 15:47:28,650 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-22 15:47:28,651 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:28] "POST / HTTP/1.1" 200 -
+2024-08-22 15:47:34,349 - INFO - Predicción realizada: 0.89 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['zipper']}
+2024-08-22 15:47:34,350 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:34] "POST / HTTP/1.1" 200 -
+2024-08-22 15:47:42,794 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:42] "POST / HTTP/1.1" 200 -
+2024-08-22 15:47:49,709 - INFO - Predicción realizada: 0.96 | Datos de entrada: {'Estructura': ['BOPP MATE/FOIL/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLOW PACK'], 'TipoSellado': ['FLOW PACK'], 'GrupoFormato': ['Grupo 2'], 'Impreso': ['SI'], 'Calibre': ['mayor 100'], 'Valvula': ['Valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-22 15:47:49,710 - INFO - 127.0.0.1 - - [22/Aug/2024 15:47:49] "POST / HTTP/1.1" 200 -
+2024-08-22 15:56:28,284 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-22 15:56:28,285 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 15:56:28,288 - INFO -  * Restarting with stat
+2024-08-22 15:56:30,198 - WARNING -  * Debugger is active!
+2024-08-22 15:56:30,205 - INFO -  * Debugger PIN: 126-399-782
+2024-08-22 15:56:33,399 - INFO - 127.0.0.1 - - [22/Aug/2024 15:56:33] "GET / HTTP/1.1" 200 -
+2024-08-22 15:56:46,491 - INFO - Predicción realizada: 0.94 | Datos de entrada: {'Estructura': ['PET METALIZADO/FLEXIBLE (PA-PE)'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['NO'], 'Calibre': ['mayor 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['no zipper']}
+2024-08-22 15:56:46,497 - INFO - 127.0.0.1 - - [22/Aug/2024 15:56:46] "POST / HTTP/1.1" 200 -
+2024-08-23 12:09:19,808 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 12:09:19,809 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 12:09:19,809 - INFO -  * Restarting with stat
+2024-08-23 12:09:21,759 - WARNING -  * Debugger is active!
+2024-08-23 12:09:21,770 - INFO -  * Debugger PIN: 126-399-782
+2024-08-23 12:09:34,115 - INFO - 127.0.0.1 - - [23/Aug/2024 12:09:34] "GET / HTTP/1.1" 200 -
+2024-08-23 12:09:34,634 - INFO - 127.0.0.1 - - [23/Aug/2024 12:09:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-23 12:19:03,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-23 12:19:03,387 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-23 12:19:03,390 - INFO -  * Restarting with stat
+2024-08-23 12:19:05,548 - WARNING -  * Debugger is active!
+2024-08-23 12:19:05,558 - INFO -  * Debugger PIN: 126-399-782
+2024-08-23 12:19:16,554 - INFO - 127.0.0.1 - - [23/Aug/2024 12:19:16] "GET / HTTP/1.1" 200 -
+2024-08-23 12:19:27,950 - INFO - Predicción realizada: 0.91 | Datos de entrada: {'Estructura': ['PET/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['Grado bajo'], 'UsoZipper': ['no zipper']}
+2024-08-23 12:19:27,952 - INFO - 127.0.0.1 - - [23/Aug/2024 12:19:27] "POST / HTTP/1.1" 200 -
