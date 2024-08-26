@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predicción de Cumplimiento</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Predicción de Cumplimiento</h1>
+
+        <!-- Formulario para buscar la parte -->
+        <form method="POST" class="mt-4">
+            <div class="form-group">
+                <label for="Parte">Ingresar Parte</label>
+                <input type="text" class="form-control" id="Parte" name="Parte" placeholder="Ingrese la parte" required>
+            </div>
+            <button type="submit" class="btn btn-primary" name="action" value="buscar">Buscar Parte</button>
+        </form>
+
+        <!-- Mostrar los datos de la parte obtenidos de la API -->
+        {% if part_data %}
+        <form method="POST" class="mt-4">
+            <h3>Datos de la Parte</h3>
+            <div class="form-group">
+                <label for="Estructura">Estructura</label>
+                <input type="text" class="form-control" id="Estructura" name="Estructura" value="{{ part_data['Estructura'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="TipoProducto">Tipo de Producto</label>
+                <input type="text" class="form-control" id="TipoProducto" name="TipoProducto" value="{{ part_data['TipoProducto'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="TipoBolsa">Tipo de Bolsa</label>
+                <input type="text" class="form-control" id="TipoBolsa" name="TipoBolsa" value="{{ part_data['TipoBolsa'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="TipoSellado">Tipo de Sellado</label>
+                <input type="text" class="form-control" id="TipoSellado" name="TipoSellado" value="{{ part_data['TipoSellado'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="GrupoFormato">Grupo Formato</label>
+                <input type="text" class="form-control" id="GrupoFormato" name="GrupoFormato" value="{{ part_data['GrupoFormato'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="Impreso">Impreso</label>
+                <input type="text" class="form-control" id="Impreso" name="Impreso" value="{{ part_data['Impreso'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="Calibre">Calibre</label>
+                <input type="text" class="form-control" id="Calibre" name="Calibre" value="{{ part_data['Calibre'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="Valvula">Válvula</label>
+                <input type="text" class="form-control" id="Valvula" name="Valvula" value="{{ part_data['Valvula'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="GradoTroquel">Grado Troquel</label>
+                <input type="text" class="form-control" id="GradoTroquel" name="GradoTroquel" value="{{ part_data['GradoTroquel'] }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="UsoZipper">Uso Zipper</label>
+                <input type="text" class="form-control" id="UsoZipper" name="UsoZipper" value="{{ part_data['UsoZipper'] }}" readonly>
+            </div>
+
+            <!-- Botón para realizar la predicción -->
+            <button type="submit" class="btn btn-success" name="action" value="predecir">Predecir</button>
+        </form>
+        {% endif %}
+
+        <!-- Mostrar la predicción -->
+        {% if prediction is not none %}
+        <div class="alert alert-info mt-4">
+            <h4>El porcentaje de cumplimiento predicho es: {{ prediction }}</h4>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

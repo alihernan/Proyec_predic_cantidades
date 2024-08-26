@@ -1,0 +1,5 @@
+,Estructura,TipoProducto,TipoBolsa,TipoSellado,GrupoFormato,Impreso,Calibre,Valvula,GradoTroquel,UsoZipper
+count,9209,9209,5224,5224,9209,9209,9209,5224,5224,5224
+unique,115,3,13,20,6,2,4,2,3,2
+top,PET/COEXT. HBA (PE-EVOH),BOLSA,PLANA,LATERAL+FONDO+SEGURIDAD,Grupo 1,Si,menor igual 100,No valvula,no troquel,no zipper
+freq,2277,5215,2418,2041,3458,8008,4546,3237,2675,4097
