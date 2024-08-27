@@ -1,0 +1,34 @@
+2024-08-27 06:01:57,671 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 06:01:57,671 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 06:01:57,673 - INFO -  * Restarting with stat
+2024-08-27 06:01:59,442 - WARNING -  * Debugger is active!
+2024-08-27 06:01:59,450 - INFO -  * Debugger PIN: 144-753-019
+2024-08-27 06:02:21,451 - INFO - 127.0.0.1 - - [27/Aug/2024 06:02:21] "GET / HTTP/1.1" 200 -
+2024-08-27 06:02:27,572 - INFO - 127.0.0.1 - - [27/Aug/2024 06:02:27] "POST / HTTP/1.1" 200 -
+2024-08-27 06:09:50,181 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 06:09:50,181 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 06:09:50,184 - INFO -  * Restarting with stat
+2024-08-27 06:09:52,617 - WARNING -  * Debugger is active!
+2024-08-27 06:09:52,622 - INFO -  * Debugger PIN: 144-753-019
+2024-08-27 06:09:54,730 - INFO - 127.0.0.1 - - [27/Aug/2024 06:09:54] "POST / HTTP/1.1" 200 -
+2024-08-27 06:11:38,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 06:11:38,308 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 06:11:38,309 - INFO -  * Restarting with stat
+2024-08-27 06:11:40,488 - WARNING -  * Debugger is active!
+2024-08-27 06:11:40,492 - INFO -  * Debugger PIN: 144-753-019
+2024-08-27 06:11:45,397 - INFO - 127.0.0.1 - - [27/Aug/2024 06:11:45] "POST / HTTP/1.1" 200 -
+2024-08-27 08:26:16,401 - INFO -  * Detected change in 'C:\\Users\\geronimo_ramirez\\Hernancho\\Proyec_predic_cantidades\\src\\app\\app.py', reloading
+2024-08-27 08:26:16,940 - INFO -  * Restarting with stat
+2024-08-27 08:26:22,484 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 08:26:22,485 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 08:26:22,487 - INFO -  * Restarting with stat
+2024-08-27 08:26:26,349 - WARNING -  * Debugger is active!
+2024-08-27 08:26:26,356 - INFO -  * Debugger PIN: 144-753-019
+2024-08-27 08:26:30,239 - INFO - Predicción realizada: 0.98 | Datos de entrada: {'Estructura': ['BOPA/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-27 08:26:30,251 - INFO - 127.0.0.1 - - [27/Aug/2024 08:26:30] "POST / HTTP/1.1" 200 -
+2024-08-27 08:31:16,081 - INFO - Predicción realizada: 0.98 | Datos de entrada: {'Estructura': ['BOPA/PEBD'], 'TipoProducto': ['BOLSA'], 'TipoBolsa': ['FLEX UP'], 'TipoSellado': ['FLEX UP'], 'GrupoFormato': ['Grupo 1'], 'Impreso': ['SI'], 'Calibre': ['menor igual 100'], 'Valvula': ['No valvula'], 'GradoTroquel': ['No troquel'], 'UsoZipper': ['no zipper']}
+2024-08-27 08:31:16,083 - INFO - 127.0.0.1 - - [27/Aug/2024 08:31:16] "POST / HTTP/1.1" 200 -

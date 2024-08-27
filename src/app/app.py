@@ -55,8 +55,11 @@ def get_api_data(parte):
     url = f"{api_url_base}{parte}"
     
     try:
-        # Realizar la solicitud GET a la API con autenticación básica
-        response = requests.get(url, auth=(username, password))
+         # Realizar la solicitud GET a la API con autenticación básica
+        headers = {
+            'Authorization': f'Basic ZXh0ZXJuYWxfYXBpOjEwMjRtYi0xVA=='
+        }
+        response = requests.get(url, headers=headers)
         response.raise_for_status()  # Verifica que la solicitud fue exitosa
         data = response.json()  # Asumiendo que la API devuelve un JSON
         return data
@@ -161,7 +164,7 @@ logging.basicConfig(filename='./logs/predictions.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Cargar el modelo entrenado
-model = joblib.load("./models/xgboost_optimized_model.pkl")
+model = joblib.load("./optimized_XGB_model2.pkl")
 
 @app.route("/", methods=["GET", "POST"])
 def home():
