@@ -5,74 +5,185 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Predicción de Cumplimiento</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f9fafc;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: #3498db; /* Azul suave para el título */
+            margin-bottom: 30px;
+            font-family: 'Arial', sans-serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+        .container {
+            max-width: 900px;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group label {
+            font-weight: bold;
+            color: #555;
+        }
+
+        .form-control, .searched-part {
+            background-color: #eef2f7; /* Color más suave para los campos */
+            border: 1px solid #ccd1d9; /* Borde más sutil */
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 5px;
+            cursor: pointer;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        .btn:focus, .btn:active {
+            background-color: #007bff;
+            outline: none;
+            box-shadow: none;
+        }
+
+        .form-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .form-group {
+            flex: 0 0 48%;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .form-group {
+                flex: 0 0 100%;
+            }
+        }
+
+        .alert {
+            background-color: #eafaf1; /* Verde claro para la alerta */
+            border-left: 5px solid #2ecc71; /* Verde acento */
+            color: #333;
+        }
+
+        .searched-part {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #eef2f7;
+            border: 1px solid #ccd1d9;
+            border-radius: 5px;
+            color: #333;
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .increment-alert {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff5e6; /* Fondo naranja claro */
+            border: 1px solid #ffc107; /* Borde naranja */
+            border-radius: 5px;
+            color: #333;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <div class="container mt-5">
         <h1 class="text-center">Predicción de Cumplimiento</h1>
 
         <!-- Formulario para buscar la parte -->
-        <form method="POST" class="mt-4">
+        <form method="POST" class="mt-4" novalidate>
             <div class="form-group">
                 <label for="Parte">Ingresar Parte</label>
                 <input type="text" class="form-control" id="Parte" name="Parte" placeholder="Ingrese la parte" required>
             </div>
-            <button type="submit" class="btn btn-primary" name="action" value="buscar">Buscar Parte</button>
+            <button type="submit" class="btn">Buscar Parte</button>
         </form>
+
+        <!-- Recuadro que muestra la parte buscada (siempre visible) -->
+        {% if request.form.get('Parte') %}
+        <div class="searched-part">
+            {{ request.form.get('Parte') }}
+        </div>
+        {% endif %}
 
         <!-- Mostrar los datos de la parte obtenidos de la API -->
         {% if part_data %}
         <form method="POST" class="mt-4">
             <h3>Datos de la Parte</h3>
-            <div class="form-group">
-                <label for="Estructura">Estructura</label>
-                <input type="text" class="form-control" id="Estructura" name="Estructura" value="{{ part_data['Estructura'] }}" readonly>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="Estructura">Estructura</label>
+                    <input type="text" class="form-control" id="Estructura" name="Estructura" value="{{ part_data['Estructura'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="TipoProducto">Tipo de Producto</label>
+                    <input type="text" class="form-control" id="TipoProducto" name="TipoProducto" value="{{ part_data['TipoProducto'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="TipoBolsa">Tipo de Bolsa</label>
+                    <input type="text" class="form-control" id="TipoBolsa" name="TipoBolsa" value="{{ part_data['TipoBolsa'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="TipoSellado">Tipo de Sellado</label>
+                    <input type="text" class="form-control" id="TipoSellado" name="TipoSellado" value="{{ part_data['TipoSellado'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="GrupoFormato">Grupo Formato</label>
+                    <input type="text" class="form-control" id="GrupoFormato" name="GrupoFormato" value="{{ part_data['GrupoFormato'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="Impreso">Impreso</label>
+                    <input type="text" class="form-control" id="Impreso" name="Impreso" value="{{ part_data['Impreso'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="Calibre">Calibre</label>
+                    <input type="text" class="form-control" id="Calibre" name="Calibre" value="{{ part_data['Calibre'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="Valvula">Válvula</label>
+                    <input type="text" class="form-control" id="Valvula" name="Valvula" value="{{ part_data['Valvula'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="GradoTroquel">Grado Troquel</label>
+                    <input type="text" class="form-control" id="GradoTroquel" name="GradoTroquel" value="{{ part_data['GradoTroquel'] }}" readonly>
+                </div>
+                <div class="form-group">
+                    <label for="UsoZipper">Uso Zipper</label>
+                    <input type="text" class="form-control" id="UsoZipper" name="UsoZipper" value="{{ part_data['UsoZipper'] }}" readonly>
+                </div>
             </div>
-            <div class="form-group">
-                <label for="TipoProducto">Tipo de Producto</label>
-                <input type="text" class="form-control" id="TipoProducto" name="TipoProducto" value="{{ part_data['TipoProducto'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="TipoBolsa">Tipo de Bolsa</label>
-                <input type="text" class="form-control" id="TipoBolsa" name="TipoBolsa" value="{{ part_data['TipoBolsa'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="TipoSellado">Tipo de Sellado</label>
-                <input type="text" class="form-control" id="TipoSellado" name="TipoSellado" value="{{ part_data['TipoSellado'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="GrupoFormato">Grupo Formato</label>
-                <input type="text" class="form-control" id="GrupoFormato" name="GrupoFormato" value="{{ part_data['GrupoFormato'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="Impreso">Impreso</label>
-                <input type="text" class="form-control" id="Impreso" name="Impreso" value="{{ part_data['Impreso'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="Calibre">Calibre</label>
-                <input type="text" class="form-control" id="Calibre" name="Calibre" value="{{ part_data['Calibre'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="Valvula">Válvula</label>
-                <input type="text" class="form-control" id="Valvula" name="Valvula" value="{{ part_data['Valvula'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="GradoTroquel">Grado Troquel</label>
-                <input type="text" class="form-control" id="GradoTroquel" name="GradoTroquel" value="{{ part_data['GradoTroquel'] }}" readonly>
-            </div>
-            <div class="form-group">
-                <label for="UsoZipper">Uso Zipper</label>
-                <input type="text" class="form-control" id="UsoZipper" name="UsoZipper" value="{{ part_data['UsoZipper'] }}" readonly>
-            </div>
-
-            <!-- Botón para realizar la predicción -->
-            <button type="submit" class="btn btn-success" name="action" value="predecir">Predecir</button>
         </form>
         {% endif %}
 
-        <!-- Mostrar la predicción -->
+        <!-- Mostrar la predicción en porcentaje -->
         {% if prediction is not none %}
-        <div class="alert alert-info mt-4">
-            <h4>El porcentaje de cumplimiento predicho es: {{ prediction }}</h4>
+        <div class="alert mt-4">
+            <h4>El porcentaje de cumplimiento predicho es: {{ (prediction * 100) | round(2) }}%</h4>
+        </div>
+        
+        <!-- Mostrar el cálculo del incremento: usar el valor calculado en Python -->
+        <div class="increment-alert">
+            <h4>El porcentaje de incremento sugerido es: <strong>{{ incremento }}</strong></h4>
         </div>
         {% endif %}
     </div>
